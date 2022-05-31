@@ -41,3 +41,14 @@ table[^1]
 
 
 [^1]: (that is refare to table).
+
+| First column | second column | third column |
+| :---         |   :---:       |  ---:        |
+|Sudo          |Linux          |windows       |
+|NPM           |Nodejs         |Code          |
+
+this project supports :
+
+- [x] Windows
+- [x] Linux
+- [] IOS
