@@ -36,3 +36,8 @@ console.log ("Hello")
 For more info, visit [ Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) website.
 
 ![my capture](./images/Screenshot%20from%202022-05-31%2011-14-54.png)
+
+table[^1]
+
+
+[^1]: (that is refare to table).
