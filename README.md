@@ -51,4 +51,4 @@ this project supports :
 
 - [x] Windows
 - [x] Linux
-- [] IOS
+- [ ] IOS
